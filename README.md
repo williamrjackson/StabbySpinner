@@ -1,1 +1,3 @@
 # StabbySpinner
+
+![sample](stabby.gif)
